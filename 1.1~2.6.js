@@ -51,6 +51,6 @@ console.log(player);
 console.log(player.name); // object.property
 player.fat = false;
 console.log(player);
-player.lastName = "potato"; // property 추가!
+player.lastName = "potato"; // property 추가
 player.points = player.points + 15;
 console.log(player.points); //25
